@@ -6,4 +6,4 @@ def maior_numero(a, b, c):
     else:
         return c
 
-print(maior_numero(10, 25, 17))  # Saída: 25
+print(maior_numero(10, 25, 17))  
